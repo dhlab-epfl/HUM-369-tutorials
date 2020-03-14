@@ -24,4 +24,8 @@ Il ne faut bien sûr choisir qu'une des deux solutions, pour ceux qui n'ont pas 
     
 ## Installer jupyter notebook et les autres dépendences
 - Si vous avez installé python: Ouvrez un terminal et exécuter la commande suivante: `pip install jupyter pywikiapi`
-- Si vous avez installé Anaconda: les jupyter notebooks sont déjà installé par défaut, il vous faut juste ouvrir un terminal anaconda depuis un de vos environnement ![open terminal](https://i.stack.imgur.com/EiiFc.png "Ouvrir un termnial") et également exécuter `pip install pywikiapi`
+- Si vous avez installé Anaconda: les jupyter notebooks sont déjà installé par défaut, il vous faut juste ouvrir un terminal anaconda depuis un de vos environnement:
+
+![open terminal](https://i.stack.imgur.com/EiiFc.png "Ouvrir un termnial")
+
+et également exécuter `pip install pywikiapi`
