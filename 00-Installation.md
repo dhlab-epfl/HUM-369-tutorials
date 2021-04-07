@@ -2,14 +2,14 @@
 
 Le tutoriel utilise python (>=3.7) et des Jupyter notebooks qui permettent de mélanger du code et du texte et d'avoir un environnement agréable pour expérimenter.
 
-Il est possible de réaliser les bots en utilisant d'autres langages de programmations, mais aucune instruction particulières ne seront données pour le faire.
+Il est possible de réaliser les bots en utilisant d'autres langages de programmations, mais aucune instruction particulière ne sera donnée.
 
 Les étapes d'installation sont les suivantes:
 1. Installer python et un package manager ou installer anaconda
 2. Installer jupyter notebook et les dépendances nécessaires pour le tutoriel
 
 ## Installer python/anaconda
-Il y a deux possibilités pour installer un environnement python, soit de n'installer que python, soit d'installer Anaconda. La première solution est plus "légère" et n'installera que ce qui est nécessaire pour le cours, toutefois elle peut être plus compliquée et ne vient pas avec une solution d'interface graphique (il faudra donc lancer certaines commandes depuis le terminal). La deuxième est beaucoup plus "lourde" car il s'agit d'installer tout un environnement d'outils scientifiques python, mais elle a l'avantage d'avoir une interface graphique pour la plupart des cas d'utilisation (il faudra tout de même utiliser le terminal au moment de l'installation, mais plus après).
+Il y a deux possibilités pour installer un environnement python : soit de n'installer que python, soit d'installer Anaconda. La première solution est plus "légère" et n'installera que ce qui est nécessaire pour le cours, toutefois elle peut être plus compliquée et ne vient pas avec une solution d'interface graphique (il faudra donc lancer certaines commandes depuis le terminal). La deuxième est beaucoup plus "lourde" car il s'agit d'installer tout un environnement d'outils scientifiques python, mais elle a l'avantage d'avoir une interface graphique pour la plupart des cas d'utilisation (il faudra tout de même utiliser le terminal au moment de l'installation, mais plus après).
 
 Il ne faut bien sûr choisir qu'une des deux solutions, pour ceux qui n'ont pas déjà Anaconda et qui ne pensent pas refaire du python en dehors de ce cours, je conseille la première.
 
