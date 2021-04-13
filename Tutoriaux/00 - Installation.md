@@ -23,9 +23,9 @@ Il ne faut bien sûr choisir qu'une des deux solutions, pour ceux qui n'ont pas 
     - Lancer le programme "Conda navigator" et vérifier que tout fonctionne.
     
 ## Installer jupyter notebook et les autres dépendances
-- Si vous avez installé python: Ouvrez un terminal et exécuter la commande suivante: `pip install jupyter pywikiapi tqdm`
+- Si vous avez installé python: Ouvrez un terminal et exécutez la commande suivante: `pip install jupyter pywikiapi tqdm`. Une fois jupyter installé, vous pouvez lancer le notebook depuis le terminal en tapant `jupyter notebook` ; l'interface du notebook est maintenant accessible dans un navgiateur web à l'adresse (par défaut) `localhost:8888`.
 - Si vous avez installé Anaconda: jupyter notebook est déjà installé par défaut, il vous faut juste ouvrir un terminal anaconda depuis un de vos environnement:
 
 ![open terminal](https://i.stack.imgur.com/EiiFc.png "Ouvrir un termnial")
 
-et également exécuter `pip install pywikiapi tqdm`
+et également exécuter `pip install pywikiapi tqdm`.
